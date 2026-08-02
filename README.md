@@ -32,6 +32,18 @@ Built with modern web technologies, Talkora focuses on delivering a smooth messa
 * Chat notification indicators
 * Read/unread message tracking
 
+ ## 📞 Voice & Video Calling
+
+Talkora provides real-time communication beyond messaging with integrated voice and video calling features.
+
+### Calling Features:
+- One-to-one voice calls
+- One-to-one video calls
+- Real-time call connection
+- Call controls (mute, camera toggle, end call)
+- Secure communication powered by Stream
+
+
 ### 👤 User Experience
 
 * User avatars and profiles
@@ -61,6 +73,7 @@ Built with modern web technologies, Talkora focuses on delivering a smooth messa
 ### Real-Time Communication
 
 * Stream Chat API
+- Stream Video SDK
 
 ### Tools
 
